@@ -1,4 +1,6 @@
 some text for HEADER
 
-new chadges
 Chandes from <master>
+Chadges from <first>
+Text from master: new chadge!!!!!!!!!!!
+ 
